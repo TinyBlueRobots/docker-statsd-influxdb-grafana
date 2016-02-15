@@ -1,0 +1,9 @@
+{
+  "name":"statsd",
+  "type":"influxdb",
+  "url":"http://localhost:8086",
+  "access":"proxy",
+  "database":"statsd",
+  "user":"root",
+  "password":"root" 
+}
